@@ -1,6 +1,7 @@
 {
-  "name": "Select_ata",
+  "name": "MobileServiceapi",
   "description": "REST CRUD Example Node.js & Mysql",
+   "repository": "https://github.com/Hiraji/MobileServiceapi",
   "version": "0.0.1",
   "private": true,
   "main": "serverF.js",
@@ -17,4 +18,21 @@
       "nodemailer": "~0.7.1",
     "mysql": "*"
   }
+"engines": {
+    "node": "0.12.7"
+  },
+  "scripts":
+  {
+    "start": "node serverB.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PoojaKalange/nodeappcompu"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
 }
