@@ -2,7 +2,7 @@ var express = require('express');
 var every = require('every-moment');
 var router = express.Router();
 //var connection  = require('express-myconnection');
-router.set('port', (process.env.PORT || 5000));
+
 var  mysql = require('mysql');
 
    var  connectionObj=mysql.createConnection({

@@ -1,5 +1,5 @@
 {
-  "name": "MobileServiceapi",
+  "name": "mobileserviceapi",
   "description": "REST CRUD Example Node.js & Mysql",
    "repository": "https://github.com/Hiraji/MobileServiceapi",
   "keywords": ["node", "express", "static"],
