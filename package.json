@@ -23,7 +23,7 @@
   },
   "scripts":
   {
-    "start": "node serverB.js"
+    "restart": "node serverB.js"
   },
   "repository": {
     "type": "git",
