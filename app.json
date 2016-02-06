@@ -1,7 +1,7 @@
 {
-  "name": "MobileServiceapi",
+  "name": "nodeappcompu",
   "description": "REST CRUD Example Node.js & Mysql",
-   "repository": "https://github.com/Hiraji/MobileServiceapi",
+   "repository": "https://github.com/PoojaKalange/nodeappcompu",
   "keywords": ["node", "express", "static"],
 
 }

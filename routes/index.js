@@ -28,20 +28,6 @@ var timer = every(60, 'second', function() {
 });
 
 
-router.get('/sim',function(req,res,next)
-    {
-       res.send('Welcome tp mobile service api');
-    });
-
-router.post('/putdata',function(req,res){
-    
-    var data ={
-        password:req.body.pass,
-    }
-    res.send(data.password);
-})
-
-
 
 /*------------------------------------CRUD OPERATION ON Sport TABLE---------------------------------------------------------------------------*/
 
@@ -692,8 +678,8 @@ var nodemailer = require("nodemailer");
 var smtpTransport = nodemailer.createTransport("SMTP",{
     service: "Gmail",
     auth: {
-        user: "hiraji12345s@gmail.com",
-        pass: "98224343"
+        user: "pujacompu@gmail.com",
+        pass: "escort@91"
     }
 });
 
